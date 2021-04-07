@@ -1,2 +1,2 @@
 # Joshman
-About me
+Welcome to my git.
